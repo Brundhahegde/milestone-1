@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "title": "Node.js Basics",
+    "content": "This article explains the basics of Node.js.",
+    "tags": [
+      "nodejs",
+      "javascript"
+    ],
+    "date": "2024-12-04T10:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "title": "Express.js Guide",
+    "content": "Learn how to build robust web applications with Express.js.",
+    "tags": [
+      "express",
+      "nodejs",
+      "web development"
+    ],
+    "date": "2024-12-04T11:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "title": "Test Article",
+    "content": "This is a test article.",
+    "tags": [
+      "test",
+      "example"
+    ],
+    "date": "2024-12-04T03:54:52.599Z"
+  },
+  {
+    "id": 4,
+    "title": "Test Article",
+    "content": "This is a test article.",
+    "tags": [
+      "test",
+      "example"
+    ],
+    "date": "2024-12-04T04:04:12.111Z"
+  },
+  {
+    "id": 5,
+    "title": "vrindas book",
+    "content": "This is a unique book",
+    "tags": [
+      "test",
+      "example"
+    ],
+    "date": "2024-12-04T04:09:47.197Z"
+  },
+  {
+    "id": 6,
+    "title": "New Article",
+    "content": "This is a new article.",
+    "tags": [
+      "news",
+      "update"
+    ],
+    "date": "2023-12-03T00:00:00.000Z"
+  }
+]
